@@ -1,4 +1,4 @@
-<img width="705" height="550" alt="image" src="https://github.com/user-attachments/assets/dae8c09f-af24-4d59-bfc9-63870f400842" /># EXPERIMENT 8
+## EXPERIMENT 8
 
 # IMAGE SEGMENTATION USING THRESHOLDING TECHNIQUES IN OPENCV
 
